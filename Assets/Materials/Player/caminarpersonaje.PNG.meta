@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 0aa779bef725f914290f86872fe02461
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4122917830270877594
+    second: caminarpersonaje_0
+  - first:
+      213: 1862937923149238640
+    second: caminarpersonaje_1
+  - first:
+      213: 735534379955540268
+    second: caminarpersonaje_2
+  - first:
+      213: 8064811615653096474
+    second: caminarpersonaje_3
+  - first:
+      213: -1605640242391697485
+    second: caminarpersonaje_4
+  - first:
+      213: -6984115132740102515
+    second: caminarpersonaje_5
+  - first:
+      213: 5767169134852361119
+    second: caminarpersonaje_6
+  - first:
+      213: 3938486175343031859
+    second: caminarpersonaje_7
+  - first:
+      213: -2225973283479250350
+    second: caminarpersonaje_8
+  - first:
+      213: -5691188424322287929
+    second: caminarpersonaje_9
+  - first:
+      213: -4996634438325416513
+    second: caminarpersonaje_10
+  - first:
+      213: 8475592877716729925
+    second: caminarpersonaje_11
+  - first:
+      213: 7504582065300286546
+    second: caminarpersonaje_12
+  - first:
+      213: -8871017352884143824
+    second: caminarpersonaje_13
+  - first:
+      213: 2775846280709449549
+    second: caminarpersonaje_14
+  - first:
+      213: 8070330269058803757
+    second: caminarpersonaje_15
+  - first:
+      213: 6586511312594591395
+    second: caminarpersonaje_16
+  - first:
+      213: 2448486747663936952
+    second: caminarpersonaje_17
+  - first:
+      213: 4763901677960070258
+    second: caminarpersonaje_18
+  - first:
+      213: 1876884073642539199
+    second: caminarpersonaje_19
+  - first:
+      213: -2972843748186119196
+    second: caminarpersonaje_20
+  - first:
+      213: -2122625981058812392
+    second: caminarpersonaje_21
+  - first:
+      213: -7765917117141910509
+    second: caminarpersonaje_22
+  - first:
+      213: -1245206314893210717
+    second: caminarpersonaje_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: caminarpersonaje_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 140
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f7b672ceb873930800000000000000
+      internalID: 4122917830270877594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminarpersonaje_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 141
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0711aebbb2c7ad910800000000000000
+      internalID: 1862937923149238640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminarpersonaje_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 142
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21565d1f94253a00800000000000000
+      internalID: 735534379955540268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminarpersonaje_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 143
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c627b6f67fbef60800000000000000
+      internalID: 8064811615653096474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminarpersonaje_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 140
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7bb23e4be97b9e0800000000000000
+      internalID: -1605640242391697485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminarpersonaje_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 141
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86989a4a40731f90800000000000000
+      internalID: -6984115132740102515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminarpersonaje_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 142
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bc87ab5c9190050800000000000000
+      internalID: 5767169134852361119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminarpersonaje_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 143
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336bb1a3f4058a630800000000000000
+      internalID: 3938486175343031859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminarpersonaje_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 76
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a95b6a711cb11e0800000000000000
+      internalID: -2225973283479250350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminarpersonaje_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 76
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c674720846d401b0800000000000000
+      internalID: -5691188424322287929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminarpersonaje_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 76
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd412f937368aab0800000000000000
+      internalID: -4996634438325416513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminarpersonaje_11
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 76
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540f22111da5f9570800000000000000
+      internalID: 8475592877716729925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminarpersonaje_12
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 76
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cadfd90a1a52860800000000000000
+      internalID: 7504582065300286546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminarpersonaje_13
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 76
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039b30dd7b0d3e480800000000000000
+      internalID: -8871017352884143824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminarpersonaje_14
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 76
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47a6c83c79c58620800000000000000
+      internalID: 2775846280709449549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminarpersonaje_15
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 76
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28255b0f929fff60800000000000000
+      internalID: 8070330269058803757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminarpersonaje_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 13
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aeda48542df76b50800000000000000
+      internalID: 6586511312594591395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminarpersonaje_17
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 12
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bda2cf69b5caf120800000000000000
+      internalID: 2448486747663936952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminarpersonaje_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 11
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27482bbf557cc1240800000000000000
+      internalID: 4763901677960070258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminarpersonaje_19
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 11
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb83d0eee180c0a10800000000000000
+      internalID: 1876884073642539199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminarpersonaje_20
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 13
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e320a0ac565eb6d0800000000000000
+      internalID: -2972843748186119196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminarpersonaje_21
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 12
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81679f79aeaea82e0800000000000000
+      internalID: -2122625981058812392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminarpersonaje_22
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 11
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c71ad078be93490800000000000000
+      internalID: -7765917117141910509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caminarpersonaje_23
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 11
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab87b8347328bee0800000000000000
+      internalID: -1245206314893210717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      caminarpersonaje_0: 4122917830270877594
+      caminarpersonaje_1: 1862937923149238640
+      caminarpersonaje_10: -4996634438325416513
+      caminarpersonaje_11: 8475592877716729925
+      caminarpersonaje_12: 7504582065300286546
+      caminarpersonaje_13: -8871017352884143824
+      caminarpersonaje_14: 2775846280709449549
+      caminarpersonaje_15: 8070330269058803757
+      caminarpersonaje_16: 6586511312594591395
+      caminarpersonaje_17: 2448486747663936952
+      caminarpersonaje_18: 4763901677960070258
+      caminarpersonaje_19: 1876884073642539199
+      caminarpersonaje_2: 735534379955540268
+      caminarpersonaje_20: -2972843748186119196
+      caminarpersonaje_21: -2122625981058812392
+      caminarpersonaje_22: -7765917117141910509
+      caminarpersonaje_23: -1245206314893210717
+      caminarpersonaje_3: 8064811615653096474
+      caminarpersonaje_4: -1605640242391697485
+      caminarpersonaje_5: -6984115132740102515
+      caminarpersonaje_6: 5767169134852361119
+      caminarpersonaje_7: 3938486175343031859
+      caminarpersonaje_8: -2225973283479250350
+      caminarpersonaje_9: -5691188424322287929
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 9b835ca832eac5540b8116628ce5b6c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6901844181380714229
+    second: IdlePersoanje_0
+  - first:
+      213: 764463554708183932
+    second: IdlePersoanje_1
+  - first:
+      213: -7900880397504981854
+    second: IdlePersoanje_2
+  - first:
+      213: 8449462401368883501
+    second: IdlePersoanje_3
+  - first:
+      213: -8699123529863364800
+    second: IdlePersoanje_4
+  - first:
+      213: -3909439706198056015
+    second: IdlePersoanje_5
+  - first:
+      213: -4168205019618200184
+    second: IdlePersoanje_6
+  - first:
+      213: -4906090851320933023
+    second: IdlePersoanje_7
+  - first:
+      213: -8131189123746223566
+    second: IdlePersoanje_8
+  - first:
+      213: -8390139521578656763
+    second: IdlePersoanje_9
+  - first:
+      213: 4774429696849563917
+    second: IdlePersoanje_10
+  - first:
+      213: -4277142071124372116
+    second: IdlePersoanje_11
+  - first:
+      213: -8819016287632145529
+    second: IdlePersoanje_12
+  - first:
+      213: -5993990857287380739
+    second: IdlePersoanje_13
+  - first:
+      213: 8236568851041878223
+    second: IdlePersoanje_14
+  - first:
+      213: -1827071844475415103
+    second: IdlePersoanje_15
+  - first:
+      213: 8215201474007859667
+    second: IdlePersoanje_16
+  - first:
+      213: -8954722003230446802
+    second: IdlePersoanje_17
+  - first:
+      213: -323926338406338245
+    second: IdlePersoanje_18
+  - first:
+      213: 4533111270989903405
+    second: IdlePersoanje_19
+  - first:
+      213: -5385325006835948434
+    second: IdlePersoanje_20
+  - first:
+      213: 1118133644125031892
+    second: IdlePersoanje_21
+  - first:
+      213: 5838908411282410535
+    second: IdlePersoanje_22
+  - first:
+      213: -6417939597177378566
+    second: IdlePersoanje_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IdlePersoanje_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 139
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01b4b9d849b730a0800000000000000
+      internalID: -6901844181380714229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePersoanje_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 139
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b1d1e7d8beb9a00800000000000000
+      internalID: 764463554708183932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePersoanje_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 139
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a45edd932f6a5290800000000000000
+      internalID: -7900880397504981854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePersoanje_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 139
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d218c907945824570800000000000000
+      internalID: 8449462401368883501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePersoanje_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 139
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f70415d31864780800000000000000
+      internalID: -8699123529863364800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePersoanje_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 139
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3e141ec41eeb9c0800000000000000
+      internalID: -3909439706198056015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePersoanje_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 139
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88538a66e9f8726c0800000000000000
+      internalID: -4168205019618200184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePersoanje_7
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 139
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165d8334d501aebb0800000000000000
+      internalID: -4906090851320933023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePersoanje_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 75
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a2695a296382f80800000000000000
+      internalID: -8131189123746223566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePersoanje_9
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 75
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c9658de8c309b80800000000000000
+      internalID: -8390139521578656763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePersoanje_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 75
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d015bc5638e224240800000000000000
+      internalID: 4774429696849563917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePersoanje_11
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 75
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65d0c492f984a4c0800000000000000
+      internalID: -4277142071124372116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePersoanje_12
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 75
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7834d4b596f8c9580800000000000000
+      internalID: -8819016287632145529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePersoanje_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 75
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df05274a21111dca0800000000000000
+      internalID: -5993990857287380739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePersoanje_14
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 75
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc006661bbb2e4270800000000000000
+      internalID: 8236568851041878223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePersoanje_15
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 75
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5dce276dfe4a6e0800000000000000
+      internalID: -1827071844475415103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePersoanje_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 11
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d10180f632420270800000000000000
+      internalID: 8215201474007859667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePersoanje_17
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 11
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b231f38cf6ab380800000000000000
+      internalID: -8954722003230446802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePersoanje_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 11
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31b5e126be218bf0800000000000000
+      internalID: -323926338406338245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePersoanje_19
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 11
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d263caafea8d8ee30800000000000000
+      internalID: 4533111270989903405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePersoanje_20
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 11
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64e38f507b7345b0800000000000000
+      internalID: -5385325006835948434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePersoanje_21
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 11
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd4c7d00a8648f00800000000000000
+      internalID: 1118133644125031892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePersoanje_22
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 11
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c4782a348f70150800000000000000
+      internalID: 5838908411282410535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdlePersoanje_23
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 11
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af82458a0f5eee6a0800000000000000
+      internalID: -6417939597177378566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IdlePersoanje_0: -6901844181380714229
+      IdlePersoanje_1: 764463554708183932
+      IdlePersoanje_10: 4774429696849563917
+      IdlePersoanje_11: -4277142071124372116
+      IdlePersoanje_12: -8819016287632145529
+      IdlePersoanje_13: -5993990857287380739
+      IdlePersoanje_14: 8236568851041878223
+      IdlePersoanje_15: -1827071844475415103
+      IdlePersoanje_16: 8215201474007859667
+      IdlePersoanje_17: -8954722003230446802
+      IdlePersoanje_18: -323926338406338245
+      IdlePersoanje_19: 4533111270989903405
+      IdlePersoanje_2: -7900880397504981854
+      IdlePersoanje_20: -5385325006835948434
+      IdlePersoanje_21: 1118133644125031892
+      IdlePersoanje_22: 5838908411282410535
+      IdlePersoanje_23: -6417939597177378566
+      IdlePersoanje_3: 8449462401368883501
+      IdlePersoanje_4: -8699123529863364800
+      IdlePersoanje_5: -3909439706198056015
+      IdlePersoanje_6: -4168205019618200184
+      IdlePersoanje_7: -4906090851320933023
+      IdlePersoanje_8: -8131189123746223566
+      IdlePersoanje_9: -8390139521578656763
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

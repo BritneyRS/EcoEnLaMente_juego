@@ -1,0 +1,7654 @@
+fileFormatVersion: 2
+guid: fa0a937d9bc6712448633ef167c0df37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8372195563238629288
+    second: Modern_Hero_P3_0
+  - first:
+      213: 3742847755448949184
+    second: Modern_Hero_P3_1
+  - first:
+      213: -994137567072411223
+    second: Modern_Hero_P3_2
+  - first:
+      213: -8166698665181887110
+    second: Modern_Hero_P3_3
+  - first:
+      213: 6230569455070557842
+    second: Modern_Hero_P3_4
+  - first:
+      213: 3288865630217134133
+    second: Modern_Hero_P3_5
+  - first:
+      213: -5779188706690728728
+    second: Modern_Hero_P3_6
+  - first:
+      213: 8042433944980582632
+    second: Modern_Hero_P3_7
+  - first:
+      213: 3665722517261975743
+    second: Modern_Hero_P3_8
+  - first:
+      213: -6304617716307678041
+    second: Modern_Hero_P3_9
+  - first:
+      213: -3163576023115338103
+    second: Modern_Hero_P3_10
+  - first:
+      213: -3338862573403797314
+    second: Modern_Hero_P3_11
+  - first:
+      213: -1251031999800913265
+    second: Modern_Hero_P3_12
+  - first:
+      213: -213426809153411090
+    second: Modern_Hero_P3_13
+  - first:
+      213: -8335138397096694187
+    second: Modern_Hero_P3_14
+  - first:
+      213: -8918271923161778277
+    second: Modern_Hero_P3_15
+  - first:
+      213: 4271776680546091368
+    second: Modern_Hero_P3_16
+  - first:
+      213: 7742854953614120860
+    second: Modern_Hero_P3_17
+  - first:
+      213: -2445434465416989185
+    second: Modern_Hero_P3_18
+  - first:
+      213: -5967791673859471222
+    second: Modern_Hero_P3_19
+  - first:
+      213: 5626146167445290728
+    second: Modern_Hero_P3_20
+  - first:
+      213: 6538189324750554127
+    second: Modern_Hero_P3_21
+  - first:
+      213: -5522330023951983932
+    second: Modern_Hero_P3_22
+  - first:
+      213: 879339928890027017
+    second: Modern_Hero_P3_23
+  - first:
+      213: -6660698738051119935
+    second: Modern_Hero_P3_24
+  - first:
+      213: 1231028337381989110
+    second: Modern_Hero_P3_25
+  - first:
+      213: -1475819521545783429
+    second: Modern_Hero_P3_26
+  - first:
+      213: -2486206082961163869
+    second: Modern_Hero_P3_27
+  - first:
+      213: 229580169417539166
+    second: Modern_Hero_P3_28
+  - first:
+      213: -8551871731721011763
+    second: Modern_Hero_P3_29
+  - first:
+      213: 8122862719321064813
+    second: Modern_Hero_P3_30
+  - first:
+      213: -2469318069557699768
+    second: Modern_Hero_P3_31
+  - first:
+      213: -865717012130607352
+    second: Modern_Hero_P3_32
+  - first:
+      213: -2563348773980875198
+    second: Modern_Hero_P3_33
+  - first:
+      213: -7578487073222233155
+    second: Modern_Hero_P3_34
+  - first:
+      213: -6891651689663405888
+    second: Modern_Hero_P3_35
+  - first:
+      213: -7577588361419408237
+    second: Modern_Hero_P3_36
+  - first:
+      213: 8598188273481715086
+    second: Modern_Hero_P3_37
+  - first:
+      213: 4260154104280043159
+    second: Modern_Hero_P3_38
+  - first:
+      213: 8831494025584256193
+    second: Modern_Hero_P3_39
+  - first:
+      213: 7436641532103223998
+    second: Modern_Hero_P3_40
+  - first:
+      213: 2057630239683464287
+    second: Modern_Hero_P3_41
+  - first:
+      213: 6771350618004453152
+    second: Modern_Hero_P3_42
+  - first:
+      213: -8080753654697498789
+    second: Modern_Hero_P3_43
+  - first:
+      213: 4825609060744455755
+    second: Modern_Hero_P3_44
+  - first:
+      213: 2918663217181755516
+    second: Modern_Hero_P3_45
+  - first:
+      213: -4943087250475574715
+    second: Modern_Hero_P3_46
+  - first:
+      213: 3455819119818104781
+    second: Modern_Hero_P3_47
+  - first:
+      213: -5433281011924619343
+    second: Modern_Hero_P3_48
+  - first:
+      213: 1201326738297140230
+    second: Modern_Hero_P3_49
+  - first:
+      213: 3295211261029494855
+    second: Modern_Hero_P3_50
+  - first:
+      213: -163563908580510313
+    second: Modern_Hero_P3_51
+  - first:
+      213: 804086575711232049
+    second: Modern_Hero_P3_52
+  - first:
+      213: -6962796151794559145
+    second: Modern_Hero_P3_53
+  - first:
+      213: 418730955370942246
+    second: Modern_Hero_P3_54
+  - first:
+      213: -5402332270751566155
+    second: Modern_Hero_P3_55
+  - first:
+      213: -7294100670325400380
+    second: Modern_Hero_P3_56
+  - first:
+      213: -2308394595183363609
+    second: Modern_Hero_P3_57
+  - first:
+      213: -181423024406887013
+    second: Modern_Hero_P3_58
+  - first:
+      213: -5384494444245277163
+    second: Modern_Hero_P3_59
+  - first:
+      213: 278276873185304805
+    second: Modern_Hero_P3_60
+  - first:
+      213: 5097695468680277552
+    second: Modern_Hero_P3_61
+  - first:
+      213: 7190515641602426227
+    second: Modern_Hero_P3_62
+  - first:
+      213: -1130736038535013067
+    second: Modern_Hero_P3_63
+  - first:
+      213: 6069880502863578434
+    second: Modern_Hero_P3_64
+  - first:
+      213: 2825273843978999743
+    second: Modern_Hero_P3_65
+  - first:
+      213: -3102123055094824026
+    second: Modern_Hero_P3_66
+  - first:
+      213: 6029649838554451370
+    second: Modern_Hero_P3_67
+  - first:
+      213: -4915697555013599068
+    second: Modern_Hero_P3_68
+  - first:
+      213: -6562301865996415859
+    second: Modern_Hero_P3_69
+  - first:
+      213: 4806705275062050984
+    second: Modern_Hero_P3_70
+  - first:
+      213: -8002802940554846901
+    second: Modern_Hero_P3_71
+  - first:
+      213: 8740489499659735241
+    second: Modern_Hero_P3_72
+  - first:
+      213: 1435226563965761201
+    second: Modern_Hero_P3_73
+  - first:
+      213: -3575010231838783386
+    second: Modern_Hero_P3_74
+  - first:
+      213: -6465023208319164595
+    second: Modern_Hero_P3_75
+  - first:
+      213: 2479427297843396810
+    second: Modern_Hero_P3_76
+  - first:
+      213: -9033998780024690462
+    second: Modern_Hero_P3_77
+  - first:
+      213: 3677705838290009566
+    second: Modern_Hero_P3_78
+  - first:
+      213: 2421126932593132655
+    second: Modern_Hero_P3_79
+  - first:
+      213: 3089253350888390461
+    second: Modern_Hero_P3_80
+  - first:
+      213: 6507774448023831940
+    second: Modern_Hero_P3_81
+  - first:
+      213: -7256027083773265056
+    second: Modern_Hero_P3_82
+  - first:
+      213: -1646989157947769968
+    second: Modern_Hero_P3_83
+  - first:
+      213: 497988666838664031
+    second: Modern_Hero_P3_84
+  - first:
+      213: 1383029483416693019
+    second: Modern_Hero_P3_85
+  - first:
+      213: -3428888654008995406
+    second: Modern_Hero_P3_86
+  - first:
+      213: -6011241868542174924
+    second: Modern_Hero_P3_87
+  - first:
+      213: -6180745123621697129
+    second: Modern_Hero_P3_88
+  - first:
+      213: 111996107089676849
+    second: Modern_Hero_P3_89
+  - first:
+      213: 6822398065987214426
+    second: Modern_Hero_P3_90
+  - first:
+      213: -1543024522480432636
+    second: Modern_Hero_P3_91
+  - first:
+      213: 2510368058831174169
+    second: Modern_Hero_P3_92
+  - first:
+      213: 8866697726285305058
+    second: Modern_Hero_P3_93
+  - first:
+      213: 3177709337224598863
+    second: Modern_Hero_P3_94
+  - first:
+      213: 2794441692866276341
+    second: Modern_Hero_P3_95
+  - first:
+      213: 2868848402638986033
+    second: Modern_Hero_P3_96
+  - first:
+      213: 6277729810193558124
+    second: Modern_Hero_P3_97
+  - first:
+      213: -3583558246707788164
+    second: Modern_Hero_P3_98
+  - first:
+      213: 8696945265198955389
+    second: Modern_Hero_P3_99
+  - first:
+      213: 8842244036073432242
+    second: Modern_Hero_P3_100
+  - first:
+      213: 2744914779338352990
+    second: Modern_Hero_P3_101
+  - first:
+      213: 3994593063137385297
+    second: Modern_Hero_P3_102
+  - first:
+      213: -5516282369179555917
+    second: Modern_Hero_P3_103
+  - first:
+      213: 68526139879526962
+    second: Modern_Hero_P3_104
+  - first:
+      213: -8857472221240617980
+    second: Modern_Hero_P3_105
+  - first:
+      213: -1317608983500255843
+    second: Modern_Hero_P3_106
+  - first:
+      213: -7933096451755787721
+    second: Modern_Hero_P3_107
+  - first:
+      213: 3504941034740297126
+    second: Modern_Hero_P3_108
+  - first:
+      213: -8763723307326432958
+    second: Modern_Hero_P3_109
+  - first:
+      213: -568978324503313804
+    second: Modern_Hero_P3_110
+  - first:
+      213: 4615200860865190526
+    second: Modern_Hero_P3_111
+  - first:
+      213: 755420638815531909
+    second: Modern_Hero_P3_112
+  - first:
+      213: 8160618587516759840
+    second: Modern_Hero_P3_113
+  - first:
+      213: 1349178862929365875
+    second: Modern_Hero_P3_114
+  - first:
+      213: -8056973332741597478
+    second: Modern_Hero_P3_115
+  - first:
+      213: 6515870731267473168
+    second: Modern_Hero_P3_116
+  - first:
+      213: 2555244903960439679
+    second: Modern_Hero_P3_117
+  - first:
+      213: 4017699419244334654
+    second: Modern_Hero_P3_118
+  - first:
+      213: 9169699441901330142
+    second: Modern_Hero_P3_119
+  - first:
+      213: 8875178320743119045
+    second: Modern_Hero_P3_120
+  - first:
+      213: -7927598863333860916
+    second: Modern_Hero_P3_121
+  - first:
+      213: 4436346674396833825
+    second: Modern_Hero_P3_122
+  - first:
+      213: 3927776938743674740
+    second: Modern_Hero_P3_123
+  - first:
+      213: 6663521162585361148
+    second: Modern_Hero_P3_124
+  - first:
+      213: 38409851042493933
+    second: Modern_Hero_P3_125
+  - first:
+      213: 108692959829733118
+    second: Modern_Hero_P3_126
+  - first:
+      213: 7272869451515353953
+    second: Modern_Hero_P3_127
+  - first:
+      213: 1629099272775091964
+    second: Modern_Hero_P3_128
+  - first:
+      213: 7113250930006521564
+    second: Modern_Hero_P3_129
+  - first:
+      213: -6816550263968222645
+    second: Modern_Hero_P3_130
+  - first:
+      213: -5438205421663293812
+    second: Modern_Hero_P3_131
+  - first:
+      213: -3722120011196420558
+    second: Modern_Hero_P3_132
+  - first:
+      213: 2608557272832138767
+    second: Modern_Hero_P3_133
+  - first:
+      213: 175559701996458296
+    second: Modern_Hero_P3_134
+  - first:
+      213: -1934017714478845520
+    second: Modern_Hero_P3_135
+  - first:
+      213: -6087050228554251483
+    second: Modern_Hero_P3_136
+  - first:
+      213: 3763381329848754695
+    second: Modern_Hero_P3_137
+  - first:
+      213: -1531568403825775907
+    second: Modern_Hero_P3_138
+  - first:
+      213: 7864857456360064474
+    second: Modern_Hero_P3_139
+  - first:
+      213: 7940677101901637876
+    second: Modern_Hero_P3_140
+  - first:
+      213: -8559712938074319498
+    second: Modern_Hero_P3_141
+  - first:
+      213: -5958606432626741792
+    second: Modern_Hero_P3_142
+  - first:
+      213: -4716320441473906974
+    second: Modern_Hero_P3_143
+  - first:
+      213: 3997587288749071218
+    second: Modern_Hero_P3_144
+  - first:
+      213: -6932569788076525993
+    second: Modern_Hero_P3_145
+  - first:
+      213: -3502860559277348214
+    second: Modern_Hero_P3_146
+  - first:
+      213: -8697004581392597184
+    second: Modern_Hero_P3_147
+  - first:
+      213: 7322442320041871785
+    second: Modern_Hero_P3_148
+  - first:
+      213: 9164744667469800062
+    second: Modern_Hero_P3_149
+  - first:
+      213: -6038546139954352868
+    second: Modern_Hero_P3_150
+  - first:
+      213: 3818045030787647592
+    second: Modern_Hero_P3_151
+  - first:
+      213: -2310394014194466749
+    second: Modern_Hero_P3_152
+  - first:
+      213: 6388259515439035920
+    second: Modern_Hero_P3_153
+  - first:
+      213: -7381577178456114827
+    second: Modern_Hero_P3_154
+  - first:
+      213: 8171676977620591604
+    second: Modern_Hero_P3_155
+  - first:
+      213: 210311105675851411
+    second: Modern_Hero_P3_156
+  - first:
+      213: 5820697218645462979
+    second: Modern_Hero_P3_157
+  - first:
+      213: -1290216007130777612
+    second: Modern_Hero_P3_158
+  - first:
+      213: -878955030403663049
+    second: Modern_Hero_P3_159
+  - first:
+      213: -4823301470264792988
+    second: Modern_Hero_P3_160
+  - first:
+      213: 5742571943657454829
+    second: Modern_Hero_P3_161
+  - first:
+      213: 8953642921116210011
+    second: Modern_Hero_P3_162
+  - first:
+      213: 1149247385360252203
+    second: Modern_Hero_P3_163
+  - first:
+      213: -3639131475721015229
+    second: Modern_Hero_P3_164
+  - first:
+      213: 5580709584929432417
+    second: Modern_Hero_P3_165
+  - first:
+      213: 5620189647026873930
+    second: Modern_Hero_P3_166
+  - first:
+      213: 378830566643267804
+    second: Modern_Hero_P3_167
+  - first:
+      213: -7378664378691597237
+    second: Modern_Hero_P3_168
+  - first:
+      213: -7943121077283057123
+    second: Modern_Hero_P3_169
+  - first:
+      213: 7491166603691073950
+    second: Modern_Hero_P3_170
+  - first:
+      213: 5143774983187769394
+    second: Modern_Hero_P3_171
+  - first:
+      213: -6036100202689386102
+    second: Modern_Hero_P3_172
+  - first:
+      213: 6624523938942354021
+    second: Modern_Hero_P3_173
+  - first:
+      213: -7611282507705778584
+    second: Modern_Hero_P3_174
+  - first:
+      213: -5047056297349467468
+    second: Modern_Hero_P3_175
+  - first:
+      213: -3141537036405850718
+    second: Modern_Hero_P3_176
+  - first:
+      213: -2495105002968832411
+    second: Modern_Hero_P3_177
+  - first:
+      213: 5458147708838588118
+    second: Modern_Hero_P3_178
+  - first:
+      213: -1997037963087217509
+    second: Modern_Hero_P3_179
+  - first:
+      213: 8662587494177545519
+    second: Modern_Hero_P3_180
+  - first:
+      213: 2222991350679933920
+    second: Modern_Hero_P3_181
+  - first:
+      213: -7053390530754096593
+    second: Modern_Hero_P3_182
+  - first:
+      213: -3259678984288131645
+    second: Modern_Hero_P3_183
+  - first:
+      213: -4792009942474328197
+    second: Modern_Hero_P3_184
+  - first:
+      213: 7077960187386525948
+    second: Modern_Hero_P3_185
+  - first:
+      213: 4911994549920602648
+    second: Modern_Hero_P3_186
+  - first:
+      213: -4167066672885808798
+    second: Modern_Hero_P3_187
+  - first:
+      213: -8689902295259976688
+    second: Modern_Hero_P3_188
+  - first:
+      213: -5250102640381924092
+    second: Modern_Hero_P3_189
+  - first:
+      213: -1684205930657524296
+    second: Modern_Hero_P3_190
+  - first:
+      213: -392372496261191691
+    second: Modern_Hero_P3_191
+  - first:
+      213: -2290115254819193498
+    second: Modern_Hero_P3_192
+  - first:
+      213: 7371343441930719585
+    second: Modern_Hero_P3_193
+  - first:
+      213: -176909695518790711
+    second: Modern_Hero_P3_194
+  - first:
+      213: -6104921789587352823
+    second: Modern_Hero_P3_195
+  - first:
+      213: 1894805556596748484
+    second: Modern_Hero_P3_196
+  - first:
+      213: 4665943756514559342
+    second: Modern_Hero_P3_197
+  - first:
+      213: -6715080190820763901
+    second: Modern_Hero_P3_198
+  - first:
+      213: -7135037520333012248
+    second: Modern_Hero_P3_199
+  - first:
+      213: 7771262236999914569
+    second: Modern_Hero_P3_200
+  - first:
+      213: 6589853447610691452
+    second: Modern_Hero_P3_201
+  - first:
+      213: 6674888147424559798
+    second: Modern_Hero_P3_202
+  - first:
+      213: 619205629769440347
+    second: Modern_Hero_P3_203
+  - first:
+      213: 8891608127758791324
+    second: Modern_Hero_P3_204
+  - first:
+      213: 136790994563207137
+    second: Modern_Hero_P3_205
+  - first:
+      213: -1911086300793048898
+    second: Modern_Hero_P3_206
+  - first:
+      213: -2195458768591377937
+    second: Modern_Hero_P3_207
+  - first:
+      213: -3629952484238039266
+    second: Modern_Hero_P3_208
+  - first:
+      213: -5768240627923973538
+    second: Modern_Hero_P3_209
+  - first:
+      213: -3976364685066129619
+    second: Modern_Hero_P3_210
+  - first:
+      213: -5599505732209124078
+    second: Modern_Hero_P3_211
+  - first:
+      213: 349057389772574757
+    second: Modern_Hero_P3_212
+  - first:
+      213: 8616461988350170428
+    second: Modern_Hero_P3_213
+  - first:
+      213: -3576663807184665952
+    second: Modern_Hero_P3_214
+  - first:
+      213: 1256190639872289403
+    second: Modern_Hero_P3_215
+  - first:
+      213: -5785706404885052474
+    second: Modern_Hero_P3_216
+  - first:
+      213: 9102549680804924122
+    second: Modern_Hero_P3_217
+  - first:
+      213: -1387499960340928905
+    second: Modern_Hero_P3_218
+  - first:
+      213: -2684757349230777202
+    second: Modern_Hero_P3_219
+  - first:
+      213: -2776282146327924930
+    second: Modern_Hero_P3_220
+  - first:
+      213: 6542510205262259486
+    second: Modern_Hero_P3_221
+  - first:
+      213: -6764061021633813187
+    second: Modern_Hero_P3_222
+  - first:
+      213: 4526605564239204786
+    second: Modern_Hero_P3_223
+  - first:
+      213: -7822172955874120060
+    second: Modern_Hero_P3_224
+  - first:
+      213: 4387236893734937504
+    second: Modern_Hero_P3_225
+  - first:
+      213: 8052277485593432881
+    second: Modern_Hero_P3_226
+  - first:
+      213: 5746287503974716484
+    second: Modern_Hero_P3_227
+  - first:
+      213: 4232147103962938204
+    second: Modern_Hero_P3_228
+  - first:
+      213: 7286335087667812855
+    second: Modern_Hero_P3_229
+  - first:
+      213: -4614866654392870402
+    second: Modern_Hero_P3_230
+  - first:
+      213: 4917251450615453391
+    second: Modern_Hero_P3_231
+  - first:
+      213: -5803508571870321134
+    second: Modern_Hero_P3_232
+  - first:
+      213: 4192106689964703246
+    second: Modern_Hero_P3_233
+  - first:
+      213: -4431124582951682623
+    second: Modern_Hero_P3_234
+  - first:
+      213: 4957836188679642356
+    second: Modern_Hero_P3_235
+  - first:
+      213: 8791575425296144225
+    second: Modern_Hero_P3_236
+  - first:
+      213: -4959240120203826810
+    second: Modern_Hero_P3_237
+  - first:
+      213: -6126995460386287152
+    second: Modern_Hero_P3_238
+  - first:
+      213: 3795114898421611539
+    second: Modern_Hero_P3_239
+  - first:
+      213: -9094302129427361879
+    second: Modern_Hero_P3_240
+  - first:
+      213: -849708257012307332
+    second: Modern_Hero_P3_241
+  - first:
+      213: -5048422312503320781
+    second: Modern_Hero_P3_242
+  - first:
+      213: -1164029227464795223
+    second: Modern_Hero_P3_243
+  - first:
+      213: 782649071386733826
+    second: Modern_Hero_P3_244
+  - first:
+      213: -1369397221257513836
+    second: Modern_Hero_P3_245
+  - first:
+      213: -1036181769698655211
+    second: Modern_Hero_P3_246
+  - first:
+      213: -1119859860701121955
+    second: Modern_Hero_P3_247
+  - first:
+      213: -4013288804851621054
+    second: Modern_Hero_P3_248
+  - first:
+      213: 5328376680886120185
+    second: Modern_Hero_P3_249
+  - first:
+      213: 2531332699273428704
+    second: Modern_Hero_P3_250
+  - first:
+      213: -7537471571140664819
+    second: Modern_Hero_P3_251
+  - first:
+      213: -4457626730587917021
+    second: Modern_Hero_P3_252
+  - first:
+      213: 2466835487324365650
+    second: Modern_Hero_P3_253
+  - first:
+      213: -413188418757307761
+    second: Modern_Hero_P3_254
+  - first:
+      213: 8076867389213117067
+    second: Modern_Hero_P3_255
+  - first:
+      213: -729049503661405845
+    second: Modern_Hero_P3_256
+  - first:
+      213: -4162016127008598077
+    second: Modern_Hero_P3_257
+  - first:
+      213: 300940801893735790
+    second: Modern_Hero_P3_258
+  - first:
+      213: 5996681389228799349
+    second: Modern_Hero_P3_259
+  - first:
+      213: 567085177770282943
+    second: Modern_Hero_P3_260
+  - first:
+      213: -384372312089136099
+    second: Modern_Hero_P3_261
+  - first:
+      213: -6136684653370622323
+    second: Modern_Hero_P3_262
+  - first:
+      213: -9024961887233377799
+    second: Modern_Hero_P3_263
+  - first:
+      213: -5863853547402562864
+    second: Modern_Hero_P3_264
+  - first:
+      213: -754970317487410438
+    second: Modern_Hero_P3_265
+  - first:
+      213: 2396095063686302489
+    second: Modern_Hero_P3_266
+  - first:
+      213: -2565794779920759628
+    second: Modern_Hero_P3_267
+  - first:
+      213: -6720979322113043570
+    second: Modern_Hero_P3_268
+  - first:
+      213: -8814538847072888718
+    second: Modern_Hero_P3_269
+  - first:
+      213: 4306035956139865642
+    second: Modern_Hero_P3_270
+  - first:
+      213: -9109211274502767977
+    second: Modern_Hero_P3_271
+  - first:
+      213: 5656041922252074937
+    second: Modern_Hero_P3_272
+  - first:
+      213: -665964458608045046
+    second: Modern_Hero_P3_273
+  - first:
+      213: 4161184911050200543
+    second: Modern_Hero_P3_274
+  - first:
+      213: -2811567061027140041
+    second: Modern_Hero_P3_275
+  - first:
+      213: 1654138906609130158
+    second: Modern_Hero_P3_276
+  - first:
+      213: -9172369546327403006
+    second: Modern_Hero_P3_277
+  - first:
+      213: 7755121333450997054
+    second: Modern_Hero_P3_278
+  - first:
+      213: 4353610325324410248
+    second: Modern_Hero_P3_279
+  - first:
+      213: 6970065070814234005
+    second: Modern_Hero_P3_280
+  - first:
+      213: 1559888131137975193
+    second: Modern_Hero_P3_281
+  - first:
+      213: -3993843442606640699
+    second: Modern_Hero_P3_282
+  - first:
+      213: 257776737984151624
+    second: Modern_Hero_P3_283
+  - first:
+      213: -5435563619897176098
+    second: Modern_Hero_P3_284
+  - first:
+      213: 242778386111834055
+    second: Modern_Hero_P3_285
+  - first:
+      213: 8648326811521524516
+    second: Modern_Hero_P3_286
+  - first:
+      213: -360080211898781974
+    second: Modern_Hero_P3_287
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Modern_Hero_P3_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3024
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8506f073e7cffcb80800000000000000
+      internalID: -8372195563238629288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 3024
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c917eff33441f330800000000000000
+      internalID: 3742847755448949184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 3024
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a127c0662d1432f0800000000000000
+      internalID: -994137567072411223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 3024
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a754d2245de0aae80800000000000000
+      internalID: -8166698665181887110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 3024
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29631ed88ed677650800000000000000
+      internalID: 6230569455070557842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 3024
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53065139dd564ad20800000000000000
+      internalID: 3288865630217134133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 3024
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecffbf9d723ccfa0800000000000000
+      internalID: -5779188706690728728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 3024
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e07c14ff077c9f60800000000000000
+      internalID: 8042433944980582632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2959
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb00d8625334fd230800000000000000
+      internalID: 3665722517261975743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2959
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aca8de179f7188a0800000000000000
+      internalID: -6304617716307678041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_10
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2959
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e644a4e58b814d0800000000000000
+      internalID: -3163576023115338103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_11
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2959
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb88b66fd2af9a1d0800000000000000
+      internalID: -3338862573403797314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_12
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 2959
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f825831460173aee0800000000000000
+      internalID: -1251031999800913265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_13
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 2959
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7add6a271c90df0800000000000000
+      internalID: -213426809153411090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_14
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2959
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e255f0ac3a35c80800000000000000
+      internalID: -8335138397096694187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_15
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 2959
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b973a99dfeeeb3480800000000000000
+      internalID: -8918271923161778277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2896
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8614fb31246684b30800000000000000
+      internalID: 4271776680546091368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_17
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2896
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c971b819e85247b60800000000000000
+      internalID: 7742854953614120860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_18
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2896
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5b2576f42101ed0800000000000000
+      internalID: -2445434465416989185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_19
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2896
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88821267152e2da0800000000000000
+      internalID: -5967791673859471222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_20
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2896
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee70057126141e40800000000000000
+      internalID: 5626146167445290728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_21
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2896
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f040200dc805cba50800000000000000
+      internalID: 6538189324750554127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_22
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2896
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca1edd0a1ebc53b0800000000000000
+      internalID: -5522330023951983932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_23
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2896
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cae42a10b043c00800000000000000
+      internalID: 879339928890027017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_24
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2832
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c40292a9c17093a0800000000000000
+      internalID: -6660698738051119935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_25
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2832
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fad71620cd751110800000000000000
+      internalID: 1231028337381989110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2832
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b773da1e6f5d48be0800000000000000
+      internalID: -1475819521545783429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_27
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2832
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a93fa27db83f7dd0800000000000000
+      internalID: -2486206082961163869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_28
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 2832
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e3b9d92f1af2300800000000000000
+      internalID: 229580169417539166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_29
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2832
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd701248f5a15980800000000000000
+      internalID: -8551871731721011763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_30
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2832
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6545604b943ab070800000000000000
+      internalID: 8122862719321064813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_31
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2832
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b5f8a7c483bbdd0800000000000000
+      internalID: -2469318069557699768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2767
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f41f7d6fa5cf3f0800000000000000
+      internalID: -865717012130607352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_33
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2769
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246df6b0fd72d6cd0800000000000000
+      internalID: -2563348773980875198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_34
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2770
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3f2b1d82ec3d690800000000000000
+      internalID: -7578487073222233155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_35
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2770
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c064e14d4feb50a0800000000000000
+      internalID: -6891651689663405888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_36
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 2767
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c3677788ff6d690800000000000000
+      internalID: -7577588361419408237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_37
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2769
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d8ec8fda6e25770800000000000000
+      internalID: 8598188273481715086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_38
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2770
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ec80a269b1f1b30800000000000000
+      internalID: 4260154104280043159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_39
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2770
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c42fe66605cf8a70800000000000000
+      internalID: 8831494025584256193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_40
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2704
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebaedea8212443760800000000000000
+      internalID: 7436641532103223998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_41
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2704
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c4f6b1dcb2e8c10800000000000000
+      internalID: 2057630239683464287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_42
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2704
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027f6cbc28ba8fd50800000000000000
+      internalID: 6771350618004453152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_43
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2704
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57e05e5d556bdf80800000000000000
+      internalID: -8080753654697498789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_44
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2704
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b466492afd108f240800000000000000
+      internalID: 4825609060744455755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_45
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2704
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c780e177bbc218820800000000000000
+      internalID: 2918663217181755516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_46
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2704
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a14a5d550a66bb0800000000000000
+      internalID: -4943087250475574715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_47
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 2704
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfd2c40e2985ff20800000000000000
+      internalID: 3455819119818104781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_48
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2641
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfab57d4bb1994b0800000000000000
+      internalID: -5433281011924619343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_49
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2640
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6043167bd48fba010800000000000000
+      internalID: 1201326738297140230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_50
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2638
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740b781ee21fabd20800000000000000
+      internalID: 3295211261029494855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_51
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2638
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795fbf2ed77eabdf0800000000000000
+      internalID: -163563908580510313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_52
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2641
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130ade9fa70b82b00800000000000000
+      internalID: 804086575711232049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_53
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2640
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75714d85acd2f5f90800000000000000
+      internalID: -6962796151794559145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_54
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2638
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f485bd591afc500800000000000000
+      internalID: 418730955370942246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_55
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2638
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6393b2c6f0705b0800000000000000
+      internalID: -5402332270751566155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_56
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2575
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccd05d061626ca90800000000000000
+      internalID: -7294100670325400380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_57
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2575
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9f9a8985fe6ffd0800000000000000
+      internalID: -2308394595183363609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_58
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2575
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95862478b47b7df0800000000000000
+      internalID: -181423024406887013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_59
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2575
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51622bbc4de6645b0800000000000000
+      internalID: -5384494444245277163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_60
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 2575
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0aa6f7753acd300800000000000000
+      internalID: 278276873185304805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_61
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 2575
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e6ecf1507aeb640800000000000000
+      internalID: 5097695468680277552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_62
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2575
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3754a9901e7d9c360800000000000000
+      internalID: 7190515641602426227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_63
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 2575
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d53685091de40f0800000000000000
+      internalID: -1130736038535013067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_64
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2511
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245c042682c8c3450800000000000000
+      internalID: 6069880502863578434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_65
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2512
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb712979793653720800000000000000
+      internalID: 2825273843978999743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_66
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2515
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a30683648b03f4d0800000000000000
+      internalID: -3102123055094824026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_67
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2517
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad870be49e9da350800000000000000
+      internalID: 6029649838554451370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_68
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 2511
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a088224e1fe7cbb0800000000000000
+      internalID: -4915697555013599068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_69
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2512
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c8660b8350ee4a0800000000000000
+      internalID: -6562301865996415859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_70
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2515
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0e11c0bf8d4b240800000000000000
+      internalID: 4806705275062050984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_71
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2517
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4dd6c0502550f090800000000000000
+      internalID: -8002802940554846901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_72
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2449
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0104e04e47c4970800000000000000
+      internalID: 8740489499659735241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_73
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2449
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6326da4f2fae310800000000000000
+      internalID: 1435226563965761201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_74
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2448
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668ccd6a223036ec0800000000000000
+      internalID: -3575010231838783386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_75
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2448
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fda7b25af9746a0800000000000000
+      internalID: -6465023208319164595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_76
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2449
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0cc56adf1b86220800000000000000
+      internalID: 2479427297843396810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_77
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2449
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8e05749f9c0a280800000000000000
+      internalID: -9033998780024690462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_78
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2448
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddf7af79f5d90330800000000000000
+      internalID: 3677705838290009566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_79
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 2448
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6448551e12999120800000000000000
+      internalID: 2421126932593132655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_80
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2380
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f33e81e8b3fda20800000000000000
+      internalID: 3089253350888390461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_81
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2383
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48503dc7162405a50800000000000000
+      internalID: 6507774448023831940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_82
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2380
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bb417bfc96d4b90800000000000000
+      internalID: -7256027083773265056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_83
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2380
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b7a934618b429e0800000000000000
+      internalID: -1646989157947769968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_84
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 2380
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53c615dd0639e600800000000000000
+      internalID: 497988666838664031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_85
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2383
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19a1f0dcf1813310800000000000000
+      internalID: 1383029483416693019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_86
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2380
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b13d6bafe32a60d0800000000000000
+      internalID: -3428888654008995406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_87
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2380
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43996969e57c39ca0800000000000000
+      internalID: -6011241868542174924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_88
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2320
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7990d4b9e05993aa0800000000000000
+      internalID: -6180745123621697129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_89
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2320
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a8e43bdd3ed8100800000000000000
+      internalID: 111996107089676849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_90
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 2320
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5cda77f4e60eae50800000000000000
+      internalID: 6822398065987214426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_91
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2320
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a46d14f53169ae0800000000000000
+      internalID: -1543024522480432636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_92
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2320
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a7e12f27e96d220800000000000000
+      internalID: 2510368058831174169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_93
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2320
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4dff1ba96dc0b70800000000000000
+      internalID: 8866697726285305058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_94
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2320
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45d6b45ecd791c20800000000000000
+      internalID: 3177709337224598863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_95
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2320
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbe5d00ae9d7c620800000000000000
+      internalID: 2794441692866276341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_96
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2257
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b5eb12c6230d720800000000000000
+      internalID: 2868848402638986033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_97
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2253
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6aa774600afe1750800000000000000
+      internalID: 6277729810193558124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_98
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2253
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c768f09d2c4a44ec0800000000000000
+      internalID: -3583558246707788164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_99
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2254
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bf23be3a1c1b870800000000000000
+      internalID: 8696945265198955389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_100
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2256
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b429734a16f5ba70800000000000000
+      internalID: 8842244036073432242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_101
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2256
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59ae29d275e71620800000000000000
+      internalID: 2744914779338352990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_102
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2191
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b1b860a35af6730800000000000000
+      internalID: 3994593063137385297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_103
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2191
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b76d48696a3273b0800000000000000
+      internalID: -5516282369179555917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_104
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2191
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2321951492473f000800000000000000
+      internalID: 68526139879526962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_105
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2191
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404101591ffe31580800000000000000
+      internalID: -8857472221240617980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_106
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2191
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d8a994c99e6bde0800000000000000
+      internalID: -1317608983500255843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_107
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 2191
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a3f28fecaf7e190800000000000000
+      internalID: -7933096451755787721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_108
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2125
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ada2661d4d04a030800000000000000
+      internalID: 3504941034740297126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_109
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2125
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2491ffc8510016680800000000000000
+      internalID: -8763723307326432958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_110
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2127
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472451b7a359a18f0800000000000000
+      internalID: -568978324503313804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_111
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2127
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a52f60bbc7c0040800000000000000
+      internalID: 4615200860865190526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_112
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2125
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5833990911bcb7a00800000000000000
+      internalID: 755420638815531909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_113
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2125
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fe2685e57504170800000000000000
+      internalID: 8160618587516759840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_114
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2062
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bce5f070f39b210800000000000000
+      internalID: 1349178862929365875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_115
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2062
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad654290171ef2090800000000000000
+      internalID: -8056973332741597478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_116
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2062
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fff8358e50d6a50800000000000000
+      internalID: 6515870731267473168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_117
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2062
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b60bea3bd067320800000000000000
+      internalID: 2555244903960439679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_118
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 2062
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e0a5ac55cb1c730800000000000000
+      internalID: 4017699419244334654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_119
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2062
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede50ab2f01514f70800000000000000
+      internalID: 9169699441901330142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_120
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2001
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c83426f8a7fa2b70800000000000000
+      internalID: 8875178320743119045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_121
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2001
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9d13506d28bf190800000000000000
+      internalID: -7927598863333860916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_122
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1998
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128a8ebabc1119d30800000000000000
+      internalID: 4436346674396833825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_123
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1998
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477b9c6c054428630800000000000000
+      internalID: 3927776938743674740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_124
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1999
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfac2394135997c50800000000000000
+      internalID: 6663521162585361148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_125
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1999
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de573475e85788000800000000000000
+      internalID: 38409851042493933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_126
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1935
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efeac3ccba7228100800000000000000
+      internalID: 108692959829733118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_127
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1935
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bdc5b9b3c6ee460800000000000000
+      internalID: 7272869451515353953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_128
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1935
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf64b914829bb9610800000000000000
+      internalID: 1629099272775091964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_129
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1935
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd67141880857b260800000000000000
+      internalID: 7113250930006521564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_130
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1935
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42349a86afb661a0800000000000000
+      internalID: -6816550263968222645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_131
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1935
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ee72a5bfc9784b0800000000000000
+      internalID: -5438205421663293812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_132
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1870
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ea349029f585cc0800000000000000
+      internalID: -3722120011196420558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_133
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1870
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0edb67d405733420800000000000000
+      internalID: 2608557272832138767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_134
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1870
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8315f5a6e96bf6200800000000000000
+      internalID: 175559701996458296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_135
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1870
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1fc23b22df825e0800000000000000
+      internalID: -1934017714478845520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_136
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1870
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52340155114768ba0800000000000000
+      internalID: -6087050228554251483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_137
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1870
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702e8f751673a3430800000000000000
+      internalID: 3763381329848754695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_138
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1807
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddaa0ccb6a6cebae0800000000000000
+      internalID: -1531568403825775907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_139
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1807
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad58c6fcf26952d60800000000000000
+      internalID: 7864857456360064474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_140
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1807
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8eceea0c3f23e60800000000000000
+      internalID: 7940677101901637876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_141
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1807
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675d3c22f6ac53980800000000000000
+      internalID: -8559712938074319498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_142
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1807
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edece20507ce4da0800000000000000
+      internalID: -5958606432626741792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_143
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1807
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6c80feb834c8eb0800000000000000
+      internalID: -4716320441473906974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_144
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1744
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b518085784a7730800000000000000
+      internalID: 3997587288749071218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_145
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1744
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756f71112809acf90800000000000000
+      internalID: -6932569788076525993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_146
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1743
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a2c8a51e6536fc0800000000000000
+      internalID: -3502860559277348214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_147
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1743
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f362479680e4780800000000000000
+      internalID: -8697004581392597184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_148
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1743
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9026e7e7a8e9560800000000000000
+      internalID: 7322442320041871785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_149
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1743
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7261b9d7b6bf2f70800000000000000
+      internalID: 9164744667469800062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_150
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1743
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1de6308746c23ca0800000000000000
+      internalID: -6038546139954352868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_151
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1743
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8680b840abb6cf430800000000000000
+      internalID: 3818045030787647592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_152
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1744
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34000c492e4dfefd0800000000000000
+      internalID: -2310394014194466749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_153
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1744
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016b0cece28a7a850800000000000000
+      internalID: 6388259515439035920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_154
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1678
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5793efb5aae5f8990800000000000000
+      internalID: -7381577178456114827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_155
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1678
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3205e6ae0a76170800000000000000
+      internalID: 8171676977620591604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_156
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1678
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396f02a16dc2be200800000000000000
+      internalID: 210311105675851411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_157
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1678
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf877ee74547c050800000000000000
+      internalID: 5820697218645462979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_158
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1678
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7727b906b381ee0800000000000000
+      internalID: -1290216007130777612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_159
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1678
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b3f378e035dc3f0800000000000000
+      internalID: -878955030403663049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_160
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1678
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4686f342ed0301db0800000000000000
+      internalID: -4823301470264792988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_161
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1678
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decb3ded1c6b1bf40800000000000000
+      internalID: 5742571943657454829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_162
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1680
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5392de5ccab14c70800000000000000
+      internalID: 8953642921116210011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_163
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1680
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2db1737862f2ff00800000000000000
+      internalID: 1149247385360252203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_164
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1615
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340b4ba24353f7dc0800000000000000
+      internalID: -3639131475721015229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_165
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1615
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1632654bcc9a27d40800000000000000
+      internalID: 5580709584929432417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_166
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1615
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a466d59f4bceefd40800000000000000
+      internalID: 5620189647026873930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_167
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1615
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8f4daa460e14500800000000000000
+      internalID: 378830566643267804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_168
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1615
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c424767d7b99990800000000000000
+      internalID: -7378664378691597237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_169
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1615
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1210a4f67d54c190800000000000000
+      internalID: -7943121077283057123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_170
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1615
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91a64e0658f5f760800000000000000
+      internalID: 7491166603691073950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_171
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1614
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238a275281c526740800000000000000
+      internalID: 5143774983187769394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_172
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1614
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a892906a8d67b3ca0800000000000000
+      internalID: -6036100202689386102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_173
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1614
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5620bba9c690feb50800000000000000
+      internalID: 6624523938942354021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_174
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1551
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e7d03b2ea4f5690800000000000000
+      internalID: -7611282507705778584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_175
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1551
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2361bb90145f9b0800000000000000
+      internalID: -5047056297349467468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_176
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1551
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adbb40c5b40764d0800000000000000
+      internalID: -3141537036405850718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_177
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1551
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5662ebc283b9f5dd0800000000000000
+      internalID: -2495105002968832411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_178
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1551
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6deafe43c6c3fbb40800000000000000
+      internalID: 5458147708838588118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_179
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1551
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c7737ad881944e0800000000000000
+      internalID: -1997037963087217509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_180
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1551
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d913afd61b73870800000000000000
+      internalID: 8662587494177545519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_181
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1551
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e31b040bd6a9de10800000000000000
+      internalID: 2222991350679933920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_182
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1552
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f225c48cea25d1e90800000000000000
+      internalID: -7053390530754096593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_183
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1552
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c523bbfb3b43c2d0800000000000000
+      internalID: -3259678984288131645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_184
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1488
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b777da2b85c5f7db0800000000000000
+      internalID: -4792009942474328197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_185
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1492
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8f78f2a47f93260800000000000000
+      internalID: 7077960187386525948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_186
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1489
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a1caea409ea2440800000000000000
+      internalID: 4911994549920602648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_187
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1423
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261c54760fa9b26c0800000000000000
+      internalID: -4167066672885808798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_188
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1423
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c6d2e47e3476780800000000000000
+      internalID: -8689902295259976688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_189
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1423
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40de1bdf673e327b0800000000000000
+      internalID: -5250102640381924092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_190
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1359
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b55d8e11af70a8e0800000000000000
+      internalID: -1684205930657524296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_191
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1357
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7e7b42b430e8af0800000000000000
+      internalID: -392372496261191691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_192
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1356
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d7ccd2f40e730e0800000000000000
+      internalID: -2290115254819193498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_193
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1296
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1619fad2ec54c4660800000000000000
+      internalID: 7371343441930719585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_194
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1296
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cba749b19d7b8df0800000000000000
+      internalID: -176909695518790711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_195
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1296
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9039a164af5f64ba0800000000000000
+      internalID: -6104921789587352823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_196
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1231
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0b2675d93bb4a10800000000000000
+      internalID: 1894805556596748484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_197
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1231
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6580051023c0c040800000000000000
+      internalID: 4665943756514559342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_198
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1168
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307bddbf42e3fc2a0800000000000000
+      internalID: -6715080190820763901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_199
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1168
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e28775ad214bfc90800000000000000
+      internalID: -7135037520333012248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_200
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1104
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94499c4a4d119db60800000000000000
+      internalID: 7771262236999914569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_201
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1104
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fe7bacbccd37b50800000000000000
+      internalID: 6589853447610691452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_202
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1039
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2c4bea767f1ac50800000000000000
+      internalID: 6674888147424559798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_203
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1039
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c54555d3cd79800800000000000000
+      internalID: 619205629769440347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_204
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 976
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92f9018b76556b70800000000000000
+      internalID: 8891608127758791324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_205
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 976
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef896f4faaf5e100800000000000000
+      internalID: 136790994563207137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_206
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 976
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb07d1282257a75e0800000000000000
+      internalID: -1911086300793048898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_207
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 976
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9281bc1e92881e0800000000000000
+      internalID: -2195458768591377937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_208
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 976
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17e179a271df9dc0800000000000000
+      internalID: -3629952484238039266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_209
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 976
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a8d99d5b713ffa0800000000000000
+      internalID: -5768240627923973538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_210
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 976
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fa939f26d11d8c0800000000000000
+      internalID: -3976364685066129619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_211
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 976
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d59e9343f8a42b0800000000000000
+      internalID: -5599505732209124078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_212
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 912
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5209e9bb8d918d400800000000000000
+      internalID: 349057389772574757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_213
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 912
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c359444c682d39770800000000000000
+      internalID: 8616461988350170428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_214
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 912
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a203c3a7332d5ec0800000000000000
+      internalID: -3576663807184665952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_215
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 912
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a22cb3bb2ee6110800000000000000
+      internalID: 1256190639872289403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_216
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 912
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3cf12cdaa05bfa0800000000000000
+      internalID: -5785706404885052474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_217
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 912
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada09b215b0c25e70800000000000000
+      internalID: 9102549680804924122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_218
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 912
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776a20a232c9ebce0800000000000000
+      internalID: -1387499960340928905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_219
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 912
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ceaf25a63ddbad0800000000000000
+      internalID: -2684757349230777202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_220
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 847
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f6dd7e81aa879d0800000000000000
+      internalID: -2776282146327924930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_221
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 847
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1566043e5aabca50800000000000000
+      internalID: 6542510205262259486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_222
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 847
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35637e965a3122a0800000000000000
+      internalID: -6764061021633813187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_223
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 847
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1d8c617cbb1de30800000000000000
+      internalID: 4526605564239204786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_224
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 847
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ea479e32f027390800000000000000
+      internalID: -7822172955874120060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_225
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 847
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a32f84d5b892ec30800000000000000
+      internalID: 4387236893734937504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_226
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 847
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1331ca9d5bf6fbf60800000000000000
+      internalID: 8052277485593432881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_227
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 847
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444ddab2a0aeebf40800000000000000
+      internalID: 5746287503974716484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_228
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 784
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bb8e04e5b9bba30800000000000000
+      internalID: 4232147103962938204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_229
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 784
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f997e658234e1560800000000000000
+      internalID: 7286335087667812855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_230
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 784
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef91e1b7a33b4ffb0800000000000000
+      internalID: -4614866654392870402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_231
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 784
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6553144269d3440800000000000000
+      internalID: 4917251450615453391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_232
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 784
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2162cb2c3bbc57fa0800000000000000
+      internalID: -5803508571870321134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_233
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 784
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e72e3e2da5d2a30800000000000000
+      internalID: 4192106689964703246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_234
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 784
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdf9ad3bab7182c0800000000000000
+      internalID: -4431124582951682623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_235
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 784
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc93d0feb5cdc440800000000000000
+      internalID: 4957836188679642356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_236
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 720
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16794d00543f10a70800000000000000
+      internalID: 8791575425296144225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_237
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 721
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689a267c26d3d2bb0800000000000000
+      internalID: -4959240120203826810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_238
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 721
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d19e3b471a88faa0800000000000000
+      internalID: -6126995460386287152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_239
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 723
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c763a84e4faa430800000000000000
+      internalID: 3795114898421611539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_240
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 720
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af476f956c8ac180800000000000000
+      internalID: -9094302129427361879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_241
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 721
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7aa01a97da3534f0800000000000000
+      internalID: -849708257012307332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_242
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 721
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f551b87a660f9b0800000000000000
+      internalID: -5048422312503320781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_243
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 723
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abd9ccb59988dfe0800000000000000
+      internalID: -1164029227464795223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_244
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 655
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20dabcb0f278cda00800000000000000
+      internalID: 782649071386733826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_245
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 655
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494f98e8b7ceefce0800000000000000
+      internalID: -1369397221257513836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_246
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 655
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514406e9b2ebe91f0800000000000000
+      internalID: -1036181769698655211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_247
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 655
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52f0b4d3657570f0800000000000000
+      internalID: -1119859860701121955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_248
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 655
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24364c5681fed48c0800000000000000
+      internalID: -4013288804851621054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_249
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 655
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe21bd3c5232f940800000000000000
+      internalID: 5328376680886120185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_250
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 655
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eef58cada9112320800000000000000
+      internalID: 2531332699273428704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_251
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 655
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d022e819a85856790800000000000000
+      internalID: -7537471571140664819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_252
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 592
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32575062b145322c0800000000000000
+      internalID: -4457626730587917021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_253
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 592
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253eb4d4ec5fb3220800000000000000
+      internalID: 2466835487324365650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_254
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 591
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f825aa2825f044af0800000000000000
+      internalID: -413188418757307761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_255
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 591
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a0cffe81cc61070800000000000000
+      internalID: 8076867389213117067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_256
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 592
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69469ec655e1e5f0800000000000000
+      internalID: -729049503661405845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_257
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 592
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c79430426c8d36c0800000000000000
+      internalID: -4162016127008598077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_258
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 591
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d1c4b90182d2400800000000000000
+      internalID: 300940801893735790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_259
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 591
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575bd24a3fd783350800000000000000
+      internalID: 5996681389228799349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_260
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 528
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf0362f6f0bed700800000000000000
+      internalID: 567085177770282943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_261
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 528
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d147e6c2b6f6aaaf0800000000000000
+      internalID: -384372312089136099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_262
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 528
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8eb04142dd16daa0800000000000000
+      internalID: -6136684653370622323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_263
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 528
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9f308daf4e0c280800000000000000
+      internalID: -9024961887233377799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_264
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 528
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2f72444486f9ea0800000000000000
+      internalID: -5863853547402562864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_265
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 528
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2f23a0f7ec585f0800000000000000
+      internalID: -754970317487410438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_266
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 528
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bc61fe3c3a04120800000000000000
+      internalID: 2396095063686302489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_267
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 528
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b48548ed37746cd0800000000000000
+      internalID: -2565794779920759628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_268
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 463
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83d4b27ae84ab2a0800000000000000
+      internalID: -6720979322113043570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_269
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 468
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278d659be977ca580800000000000000
+      internalID: -8814538847072888718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_270
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 465
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26b6c343ec12cb30800000000000000
+      internalID: 4306035956139865642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_271
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 400
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a7747cb94959180800000000000000
+      internalID: -9109211274502767977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_272
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 400
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf6d8a492c4e7e40800000000000000
+      internalID: 5656041922252074937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_273
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 400
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04d1a37ad402c6f0800000000000000
+      internalID: -665964458608045046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_274
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 334
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5dcd331af7fb930800000000000000
+      internalID: 4161184911050200543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_275
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 334
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ec94187ae4bf8d0800000000000000
+      internalID: -2811567061027140041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_276
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 331
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa1791529ea4f610800000000000000
+      internalID: 1654138906609130158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_277
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 271
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2065b82be7235b080800000000000000
+      internalID: -9172369546327403006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_278
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 271
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d766ea3c9bf9b60800000000000000
+      internalID: 7755121333450997054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_279
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 271
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d2f6346812b6c30800000000000000
+      internalID: 4353610325324410248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_280
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5958d3fb045aab060800000000000000
+      internalID: 6970065070814234005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_281
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 208
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993b3d99df5d5a510800000000000000
+      internalID: 1559888131137975193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_282
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 144
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c178ea9c840398c0800000000000000
+      internalID: -3993843442606640699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_283
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 144
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84087e2d39ec39300800000000000000
+      internalID: 257776737984151624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_284
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 79
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf0ef1cfaff094b0800000000000000
+      internalID: -5435563619897176098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_285
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 79
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7a657e7a58e5300800000000000000
+      internalID: 242778386111834055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_286
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 16
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4232a3e0a67050870800000000000000
+      internalID: 8648326811521524516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_287
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 16
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee202f74fcb00bf0800000000000000
+      internalID: -360080211898781974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern_Hero_P3_288
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2563
+        width: 542
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6833ece393cb5b5478c7fb9490ba3e46
+      internalID: -1046460139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 05628dbec87081e4daa197f8e9764c1f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Modern_Hero_P3_0: -8372195563238629288
+      Modern_Hero_P3_1: 3742847755448949184
+      Modern_Hero_P3_10: -3163576023115338103
+      Modern_Hero_P3_100: 8842244036073432242
+      Modern_Hero_P3_101: 2744914779338352990
+      Modern_Hero_P3_102: 3994593063137385297
+      Modern_Hero_P3_103: -5516282369179555917
+      Modern_Hero_P3_104: 68526139879526962
+      Modern_Hero_P3_105: -8857472221240617980
+      Modern_Hero_P3_106: -1317608983500255843
+      Modern_Hero_P3_107: -7933096451755787721
+      Modern_Hero_P3_108: 3504941034740297126
+      Modern_Hero_P3_109: -8763723307326432958
+      Modern_Hero_P3_11: -3338862573403797314
+      Modern_Hero_P3_110: -568978324503313804
+      Modern_Hero_P3_111: 4615200860865190526
+      Modern_Hero_P3_112: 755420638815531909
+      Modern_Hero_P3_113: 8160618587516759840
+      Modern_Hero_P3_114: 1349178862929365875
+      Modern_Hero_P3_115: -8056973332741597478
+      Modern_Hero_P3_116: 6515870731267473168
+      Modern_Hero_P3_117: 2555244903960439679
+      Modern_Hero_P3_118: 4017699419244334654
+      Modern_Hero_P3_119: 9169699441901330142
+      Modern_Hero_P3_12: -1251031999800913265
+      Modern_Hero_P3_120: 8875178320743119045
+      Modern_Hero_P3_121: -7927598863333860916
+      Modern_Hero_P3_122: 4436346674396833825
+      Modern_Hero_P3_123: 3927776938743674740
+      Modern_Hero_P3_124: 6663521162585361148
+      Modern_Hero_P3_125: 38409851042493933
+      Modern_Hero_P3_126: 108692959829733118
+      Modern_Hero_P3_127: 7272869451515353953
+      Modern_Hero_P3_128: 1629099272775091964
+      Modern_Hero_P3_129: 7113250930006521564
+      Modern_Hero_P3_13: -213426809153411090
+      Modern_Hero_P3_130: -6816550263968222645
+      Modern_Hero_P3_131: -5438205421663293812
+      Modern_Hero_P3_132: -3722120011196420558
+      Modern_Hero_P3_133: 2608557272832138767
+      Modern_Hero_P3_134: 175559701996458296
+      Modern_Hero_P3_135: -1934017714478845520
+      Modern_Hero_P3_136: -6087050228554251483
+      Modern_Hero_P3_137: 3763381329848754695
+      Modern_Hero_P3_138: -1531568403825775907
+      Modern_Hero_P3_139: 7864857456360064474
+      Modern_Hero_P3_14: -8335138397096694187
+      Modern_Hero_P3_140: 7940677101901637876
+      Modern_Hero_P3_141: -8559712938074319498
+      Modern_Hero_P3_142: -5958606432626741792
+      Modern_Hero_P3_143: -4716320441473906974
+      Modern_Hero_P3_144: 3997587288749071218
+      Modern_Hero_P3_145: -6932569788076525993
+      Modern_Hero_P3_146: -3502860559277348214
+      Modern_Hero_P3_147: -8697004581392597184
+      Modern_Hero_P3_148: 7322442320041871785
+      Modern_Hero_P3_149: 9164744667469800062
+      Modern_Hero_P3_15: -8918271923161778277
+      Modern_Hero_P3_150: -6038546139954352868
+      Modern_Hero_P3_151: 3818045030787647592
+      Modern_Hero_P3_152: -2310394014194466749
+      Modern_Hero_P3_153: 6388259515439035920
+      Modern_Hero_P3_154: -7381577178456114827
+      Modern_Hero_P3_155: 8171676977620591604
+      Modern_Hero_P3_156: 210311105675851411
+      Modern_Hero_P3_157: 5820697218645462979
+      Modern_Hero_P3_158: -1290216007130777612
+      Modern_Hero_P3_159: -878955030403663049
+      Modern_Hero_P3_16: 4271776680546091368
+      Modern_Hero_P3_160: -4823301470264792988
+      Modern_Hero_P3_161: 5742571943657454829
+      Modern_Hero_P3_162: 8953642921116210011
+      Modern_Hero_P3_163: 1149247385360252203
+      Modern_Hero_P3_164: -3639131475721015229
+      Modern_Hero_P3_165: 5580709584929432417
+      Modern_Hero_P3_166: 5620189647026873930
+      Modern_Hero_P3_167: 378830566643267804
+      Modern_Hero_P3_168: -7378664378691597237
+      Modern_Hero_P3_169: -7943121077283057123
+      Modern_Hero_P3_17: 7742854953614120860
+      Modern_Hero_P3_170: 7491166603691073950
+      Modern_Hero_P3_171: 5143774983187769394
+      Modern_Hero_P3_172: -6036100202689386102
+      Modern_Hero_P3_173: 6624523938942354021
+      Modern_Hero_P3_174: -7611282507705778584
+      Modern_Hero_P3_175: -5047056297349467468
+      Modern_Hero_P3_176: -3141537036405850718
+      Modern_Hero_P3_177: -2495105002968832411
+      Modern_Hero_P3_178: 5458147708838588118
+      Modern_Hero_P3_179: -1997037963087217509
+      Modern_Hero_P3_18: -2445434465416989185
+      Modern_Hero_P3_180: 8662587494177545519
+      Modern_Hero_P3_181: 2222991350679933920
+      Modern_Hero_P3_182: -7053390530754096593
+      Modern_Hero_P3_183: -3259678984288131645
+      Modern_Hero_P3_184: -4792009942474328197
+      Modern_Hero_P3_185: 7077960187386525948
+      Modern_Hero_P3_186: 4911994549920602648
+      Modern_Hero_P3_187: -4167066672885808798
+      Modern_Hero_P3_188: -8689902295259976688
+      Modern_Hero_P3_189: -5250102640381924092
+      Modern_Hero_P3_19: -5967791673859471222
+      Modern_Hero_P3_190: -1684205930657524296
+      Modern_Hero_P3_191: -392372496261191691
+      Modern_Hero_P3_192: -2290115254819193498
+      Modern_Hero_P3_193: 7371343441930719585
+      Modern_Hero_P3_194: -176909695518790711
+      Modern_Hero_P3_195: -6104921789587352823
+      Modern_Hero_P3_196: 1894805556596748484
+      Modern_Hero_P3_197: 4665943756514559342
+      Modern_Hero_P3_198: -6715080190820763901
+      Modern_Hero_P3_199: -7135037520333012248
+      Modern_Hero_P3_2: -994137567072411223
+      Modern_Hero_P3_20: 5626146167445290728
+      Modern_Hero_P3_200: 7771262236999914569
+      Modern_Hero_P3_201: 6589853447610691452
+      Modern_Hero_P3_202: 6674888147424559798
+      Modern_Hero_P3_203: 619205629769440347
+      Modern_Hero_P3_204: 8891608127758791324
+      Modern_Hero_P3_205: 136790994563207137
+      Modern_Hero_P3_206: -1911086300793048898
+      Modern_Hero_P3_207: -2195458768591377937
+      Modern_Hero_P3_208: -3629952484238039266
+      Modern_Hero_P3_209: -5768240627923973538
+      Modern_Hero_P3_21: 6538189324750554127
+      Modern_Hero_P3_210: -3976364685066129619
+      Modern_Hero_P3_211: -5599505732209124078
+      Modern_Hero_P3_212: 349057389772574757
+      Modern_Hero_P3_213: 8616461988350170428
+      Modern_Hero_P3_214: -3576663807184665952
+      Modern_Hero_P3_215: 1256190639872289403
+      Modern_Hero_P3_216: -5785706404885052474
+      Modern_Hero_P3_217: 9102549680804924122
+      Modern_Hero_P3_218: -1387499960340928905
+      Modern_Hero_P3_219: -2684757349230777202
+      Modern_Hero_P3_22: -5522330023951983932
+      Modern_Hero_P3_220: -2776282146327924930
+      Modern_Hero_P3_221: 6542510205262259486
+      Modern_Hero_P3_222: -6764061021633813187
+      Modern_Hero_P3_223: 4526605564239204786
+      Modern_Hero_P3_224: -7822172955874120060
+      Modern_Hero_P3_225: 4387236893734937504
+      Modern_Hero_P3_226: 8052277485593432881
+      Modern_Hero_P3_227: 5746287503974716484
+      Modern_Hero_P3_228: 4232147103962938204
+      Modern_Hero_P3_229: 7286335087667812855
+      Modern_Hero_P3_23: 879339928890027017
+      Modern_Hero_P3_230: -4614866654392870402
+      Modern_Hero_P3_231: 4917251450615453391
+      Modern_Hero_P3_232: -5803508571870321134
+      Modern_Hero_P3_233: 4192106689964703246
+      Modern_Hero_P3_234: -4431124582951682623
+      Modern_Hero_P3_235: 4957836188679642356
+      Modern_Hero_P3_236: 8791575425296144225
+      Modern_Hero_P3_237: -4959240120203826810
+      Modern_Hero_P3_238: -6126995460386287152
+      Modern_Hero_P3_239: 3795114898421611539
+      Modern_Hero_P3_24: -6660698738051119935
+      Modern_Hero_P3_240: -9094302129427361879
+      Modern_Hero_P3_241: -849708257012307332
+      Modern_Hero_P3_242: -5048422312503320781
+      Modern_Hero_P3_243: -1164029227464795223
+      Modern_Hero_P3_244: 782649071386733826
+      Modern_Hero_P3_245: -1369397221257513836
+      Modern_Hero_P3_246: -1036181769698655211
+      Modern_Hero_P3_247: -1119859860701121955
+      Modern_Hero_P3_248: -4013288804851621054
+      Modern_Hero_P3_249: 5328376680886120185
+      Modern_Hero_P3_25: 1231028337381989110
+      Modern_Hero_P3_250: 2531332699273428704
+      Modern_Hero_P3_251: -7537471571140664819
+      Modern_Hero_P3_252: -4457626730587917021
+      Modern_Hero_P3_253: 2466835487324365650
+      Modern_Hero_P3_254: -413188418757307761
+      Modern_Hero_P3_255: 8076867389213117067
+      Modern_Hero_P3_256: -729049503661405845
+      Modern_Hero_P3_257: -4162016127008598077
+      Modern_Hero_P3_258: 300940801893735790
+      Modern_Hero_P3_259: 5996681389228799349
+      Modern_Hero_P3_26: -1475819521545783429
+      Modern_Hero_P3_260: 567085177770282943
+      Modern_Hero_P3_261: -384372312089136099
+      Modern_Hero_P3_262: -6136684653370622323
+      Modern_Hero_P3_263: -9024961887233377799
+      Modern_Hero_P3_264: -5863853547402562864
+      Modern_Hero_P3_265: -754970317487410438
+      Modern_Hero_P3_266: 2396095063686302489
+      Modern_Hero_P3_267: -2565794779920759628
+      Modern_Hero_P3_268: -6720979322113043570
+      Modern_Hero_P3_269: -8814538847072888718
+      Modern_Hero_P3_27: -2486206082961163869
+      Modern_Hero_P3_270: 4306035956139865642
+      Modern_Hero_P3_271: -9109211274502767977
+      Modern_Hero_P3_272: 5656041922252074937
+      Modern_Hero_P3_273: -665964458608045046
+      Modern_Hero_P3_274: 4161184911050200543
+      Modern_Hero_P3_275: -2811567061027140041
+      Modern_Hero_P3_276: 1654138906609130158
+      Modern_Hero_P3_277: -9172369546327403006
+      Modern_Hero_P3_278: 7755121333450997054
+      Modern_Hero_P3_279: 4353610325324410248
+      Modern_Hero_P3_28: 229580169417539166
+      Modern_Hero_P3_280: 6970065070814234005
+      Modern_Hero_P3_281: 1559888131137975193
+      Modern_Hero_P3_282: -3993843442606640699
+      Modern_Hero_P3_283: 257776737984151624
+      Modern_Hero_P3_284: -5435563619897176098
+      Modern_Hero_P3_285: 242778386111834055
+      Modern_Hero_P3_286: 8648326811521524516
+      Modern_Hero_P3_287: -360080211898781974
+      Modern_Hero_P3_288: -1046460139
+      Modern_Hero_P3_29: -8551871731721011763
+      Modern_Hero_P3_3: -8166698665181887110
+      Modern_Hero_P3_30: 8122862719321064813
+      Modern_Hero_P3_31: -2469318069557699768
+      Modern_Hero_P3_32: -865717012130607352
+      Modern_Hero_P3_33: -2563348773980875198
+      Modern_Hero_P3_34: -7578487073222233155
+      Modern_Hero_P3_35: -6891651689663405888
+      Modern_Hero_P3_36: -7577588361419408237
+      Modern_Hero_P3_37: 8598188273481715086
+      Modern_Hero_P3_38: 4260154104280043159
+      Modern_Hero_P3_39: 8831494025584256193
+      Modern_Hero_P3_4: 6230569455070557842
+      Modern_Hero_P3_40: 7436641532103223998
+      Modern_Hero_P3_41: 2057630239683464287
+      Modern_Hero_P3_42: 6771350618004453152
+      Modern_Hero_P3_43: -8080753654697498789
+      Modern_Hero_P3_44: 4825609060744455755
+      Modern_Hero_P3_45: 2918663217181755516
+      Modern_Hero_P3_46: -4943087250475574715
+      Modern_Hero_P3_47: 3455819119818104781
+      Modern_Hero_P3_48: -5433281011924619343
+      Modern_Hero_P3_49: 1201326738297140230
+      Modern_Hero_P3_5: 3288865630217134133
+      Modern_Hero_P3_50: 3295211261029494855
+      Modern_Hero_P3_51: -163563908580510313
+      Modern_Hero_P3_52: 804086575711232049
+      Modern_Hero_P3_53: -6962796151794559145
+      Modern_Hero_P3_54: 418730955370942246
+      Modern_Hero_P3_55: -5402332270751566155
+      Modern_Hero_P3_56: -7294100670325400380
+      Modern_Hero_P3_57: -2308394595183363609
+      Modern_Hero_P3_58: -181423024406887013
+      Modern_Hero_P3_59: -5384494444245277163
+      Modern_Hero_P3_6: -5779188706690728728
+      Modern_Hero_P3_60: 278276873185304805
+      Modern_Hero_P3_61: 5097695468680277552
+      Modern_Hero_P3_62: 7190515641602426227
+      Modern_Hero_P3_63: -1130736038535013067
+      Modern_Hero_P3_64: 6069880502863578434
+      Modern_Hero_P3_65: 2825273843978999743
+      Modern_Hero_P3_66: -3102123055094824026
+      Modern_Hero_P3_67: 6029649838554451370
+      Modern_Hero_P3_68: -4915697555013599068
+      Modern_Hero_P3_69: -6562301865996415859
+      Modern_Hero_P3_7: 8042433944980582632
+      Modern_Hero_P3_70: 4806705275062050984
+      Modern_Hero_P3_71: -8002802940554846901
+      Modern_Hero_P3_72: 8740489499659735241
+      Modern_Hero_P3_73: 1435226563965761201
+      Modern_Hero_P3_74: -3575010231838783386
+      Modern_Hero_P3_75: -6465023208319164595
+      Modern_Hero_P3_76: 2479427297843396810
+      Modern_Hero_P3_77: -9033998780024690462
+      Modern_Hero_P3_78: 3677705838290009566
+      Modern_Hero_P3_79: 2421126932593132655
+      Modern_Hero_P3_8: 3665722517261975743
+      Modern_Hero_P3_80: 3089253350888390461
+      Modern_Hero_P3_81: 6507774448023831940
+      Modern_Hero_P3_82: -7256027083773265056
+      Modern_Hero_P3_83: -1646989157947769968
+      Modern_Hero_P3_84: 497988666838664031
+      Modern_Hero_P3_85: 1383029483416693019
+      Modern_Hero_P3_86: -3428888654008995406
+      Modern_Hero_P3_87: -6011241868542174924
+      Modern_Hero_P3_88: -6180745123621697129
+      Modern_Hero_P3_89: 111996107089676849
+      Modern_Hero_P3_9: -6304617716307678041
+      Modern_Hero_P3_90: 6822398065987214426
+      Modern_Hero_P3_91: -1543024522480432636
+      Modern_Hero_P3_92: 2510368058831174169
+      Modern_Hero_P3_93: 8866697726285305058
+      Modern_Hero_P3_94: 3177709337224598863
+      Modern_Hero_P3_95: 2794441692866276341
+      Modern_Hero_P3_96: 2868848402638986033
+      Modern_Hero_P3_97: 6277729810193558124
+      Modern_Hero_P3_98: -3583558246707788164
+      Modern_Hero_P3_99: 8696945265198955389
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
